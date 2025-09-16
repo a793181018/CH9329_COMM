@@ -1,0 +1,5 @@
+pyserial~=3.5
+flask~=2.0.0
+numpy~=1.19.5
+ch9329Comm~=1.0.9
+pynput~=1.7.6
